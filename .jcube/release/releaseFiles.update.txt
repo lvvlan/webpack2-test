@@ -1,0 +1,1 @@
+http://static.360buyimg.com/finance/testApp/jcubeProduction/myProject/1.0.1/js/chunk-asnyc-0.js
